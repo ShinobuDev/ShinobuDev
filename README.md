@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShinobuDev
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Bash Script
 
 <!---
 ShinobuDev/ShinobuDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
