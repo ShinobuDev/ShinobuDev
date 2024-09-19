@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e43
 - 👀 I’m interested in Cybersecurity
-- 🧠 I know C/C++/Ruby/HTML/
+- 🧠 I know C/C#/Ruby/HTML/Bash
 - 🌱 I’m currently learning CSS
 - 🎮 My discord is @e43
 
