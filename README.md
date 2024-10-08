@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @e43
-- 👀 I’m interested in Cybersecurity
-- 🧠 I know C/C#/Ruby/HTML/Bash
-- 🌱 I’m currently learning CSS
-- 🎮 My discord is @e43
+# 👋 Hi, I’m Adrien
+- I’m interested in Cybersecurity
+- Apprentice in BTS SIO in Saint-Ursule, Caen, France.
+
+## 🧠 Language
+- C
+- C#
+- Ruby
+- HTML
+- Bash
+
+## 🌱 I’m currently learning
+- CSS
+- Python
+
+## 👀 Contact
+- My discord is @e43
+- pro : adrien.robin0704@gmail.com
 
 <!---
 ShinobuDev/ShinobuDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
