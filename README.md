@@ -13,7 +13,7 @@
 - CSS
 - Python
 
-## 👀 Contact
+### 👀 Contact
 - My discord is @e43
 - pro : adrien.robin0704@gmail.com
 
