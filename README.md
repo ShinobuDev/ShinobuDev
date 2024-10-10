@@ -1,12 +1,13 @@
 <div align="center">
     <h1>
 	<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Adrien;This+is+my+Github;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey,+I'm+Adrien;" alt="Typing SVG"/>
     </h1>
 </div>
 
-- I’m interested in Cybersecurity
-- Apprentice in BTS SIO in Saint-Ursule, Caen, France.
+💻 I’m interested in Cybersecurity
+
+🏁 Apprentice in BTS SIO in Saint-Ursule, Caen, France.
 
 ## 🧠 Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
