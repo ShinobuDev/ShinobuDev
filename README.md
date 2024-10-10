@@ -13,6 +13,9 @@
 - CSS
 - Python
 
+## My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinobuDev)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 👀 Contact
 - My discord is @e43
 - pro : adrien.robin0704@gmail.com
