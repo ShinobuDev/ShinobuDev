@@ -13,7 +13,7 @@
 - CSS
 - Python
 
-## My stats
+## ⬆️ My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinobuDev)](https://github.com/ShinobuDev/github-readme-stats)
 
 ### 👀 Contact
