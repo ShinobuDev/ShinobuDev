@@ -26,7 +26,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinobuDev)](https://github.com/ShinobuDev/github-readme-stats)
 
 ### 👀 Contact
-[![Download](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=whit)](https://discord/e43)
+[![Download](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=whit)](https://discordapp.com/users/[yourID])
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrien.robin0704@gmail.com)
 
